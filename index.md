@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
 ---
 
-# Welcome to My Academic Profile
+# Biograph
 
-This is your introduction paragraph. You can write about your academic interests, achievements, etc.
+**I'm a new researcher focusing on multi-modal large language models and visual foundation models.**
+
